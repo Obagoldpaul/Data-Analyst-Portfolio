@@ -1,6 +1,6 @@
-# Obayomi Oluwadamilola's Data Analyst Portfolio (Editing stage)
+# Obayomi Oluwadamilola's Data Analyst Portfolio
 
-![Profile Picture](https://drive.google.com/file/d/14iJ5d58mjgrtUPZD7E_8n9HAJ0OB7EjT/view)
+![Profile Picture](https://github.com/Obagoldpaul/Project-1/blob/87ba2d686b60231bf700440f45e2dede95e68aaa/Image/dami.jpg)
 
 Welcome to my data analyst portfolio! I'm Obayomi Oluwadamilola, a data analyst with a passion for extracting insights from data and solving real-world problems. This portfolio showcases some of my most exciting data analysis projects.
 
@@ -57,7 +57,7 @@ The analysis was conducted using R for data preprocessing and Tableau for in-dep
 - **GitHub Repository:**
   
 For a more detailed exploration of the analysis and code, please refer to the [Project's GitHub Repository](https://github.com/Obagoldpaul/Project-1)
-![Project 1 Screenshot](link_to_project_screenshot)
+![Project 1 Screenshot](https://github.com/Obagoldpaul/Project-1/blob/15a4b118593ece6ef91b999bb8757ebbada1ea0f/Image/dataset-cover.png)
 
 
 (More projects loading...)
